@@ -1,6 +1,6 @@
 ## クレジット
 
-この定義の元ネタは[横ネスト段階配列表記](https://docs.google.com/document/d/1XcVUQca08QyKJYzLSpr92cWN4p_lxLQERxE3WDzMS-A/edit?usp=sharing)です。
+この定義の元ネタは[横ネスト段階配列表記](https://twitter.com/Konosirotan/status/1684790641791062016)です。
 
 ## 前文
 
